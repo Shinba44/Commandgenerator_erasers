@@ -195,3 +195,7 @@ def main():
             print(command)
     else:
         generator(knowledge)
+
+
+if __name__ == "__main__":
+    main()
